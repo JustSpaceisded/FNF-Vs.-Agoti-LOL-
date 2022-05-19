@@ -1,3 +1,5 @@
+hey everybody it's bob and david
+
 # Agoti-web-port
 fnf agoti mod ported to web with bonus songs!
 
